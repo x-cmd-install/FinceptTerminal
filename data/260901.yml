@@ -1,0 +1,64 @@
+about:
+  description: FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+  license: NOASSERTION
+  homepage: https://fincept.in
+  head: ec88590
+  archived: false
+  latestVersion: v4.4.1
+  collectedAt: 2026-09-01T05:26:20Z
+timeline:
+  created: 2024-08-29
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-20
+popularity:
+  star: 30869
+  watcher: 173
+  fork: 4364
+  release: 32
+  contributor: 42
+  pullRequest: 82
+  issue: 147
+language:
+  C++: 19841652
+  Python: 15534182
+  CMake: 227702
+  Jupyter Notebook: 141067
+  PowerShell: 66984
+  HTML: 51895
+  Qt Script: 23354
+  Shell: 19983
+  Dockerfile: 11705
+totalLine: 35918524
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 8
+    openIssue: 1
+    commit: 16
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 19
+    openIssue: 1
+    commit: 74
+  last180d:
+    since: 2026-03-05
+    release: 9
+    mergedPR: 39
+    openPR: 0
+    closedIssue: 117
+    openIssue: 2
+    commit: 402
+  last360d:
+    since: 2025-09-06
+    release: 28
+    mergedPR: 89
+    openPR: 0
+    closedIssue: 135
+    openIssue: 2
+    commit: 801
