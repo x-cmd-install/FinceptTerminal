@@ -7,7 +7,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 - **Latest release**: `v4.5.0` (2026-09-01)
 - **Last commit**: 2026-09-08
 - **License**: NOASSERTION
-- **Stars**: 31236 · **Forks**: 4423 · **Open issues**: 150 · **Contributors**: 42
+- **Stars**: 31252 · **Forks**: 4422 · **Open issues**: 150 · **Contributors**: 42
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/FinceptTerminal> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:34:00Z._
+_Last regenerated: 2026-09-09T19:50:47Z._
