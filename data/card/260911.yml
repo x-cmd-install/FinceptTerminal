@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.5.0"
   latestRelease: "v4.5.0"
   latestPrerelease: "v3.3.0-rc.14"
-  collectedAt: 2026-09-11T00:05:31Z
+  collectedAt: 2026-09-11T05:23:17Z
 timeline:
   created: 2024-08-29
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-01
   lastPrerelease: 2026-02-11
 popularity:
-  star: 31281
+  star: 31283
   watcher: 175
   fork: 4427
   release: 33
@@ -91,7 +91,7 @@ total:
   commit: 1106
 ---
 path: /home/runner/.x-repo/github.com/Fincept-Corporation/FinceptTerminal
-collectedAt: 2026-09-11T00:06:14Z
+collectedAt: 2026-09-11T05:24:15Z
 loc:
   TypeScript:
     code: 453195
