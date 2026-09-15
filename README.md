@@ -38,7 +38,7 @@ Total: **1,145,343** lines of code across **3401** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,522 · **Forks**: 4,448 · **Open issues**: 151 · **Contributors**: 42
+- **Stars**: 31,643 · **Forks**: 4,470 · **Open issues**: 151 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,145,343** lines of code across **3401** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 2 | 0 | 9 | 3 | 6 |
-| last60d | 2026-07-16 | 4 | 6 | 0 | 12 | 3 | 25 |
-| 90d | 2026-06-16 | 5 | 8 | 0 | 16 | 3 | 56 |
-| last180d | 2026-03-18 | 10 | 39 | 0 | 117 | 4 | 333 |
-| 360d | 2025-09-19 | 29 | 89 | 0 | 137 | 4 | 798 |
-| last720d | 2024-09-24 | 30 | 105 | 0 | 146 | 4 | 1099 |
+| 30d | 2026-08-16 | 2 | 2 | 0 | 9 | 3 | 6 |
+| last60d | 2026-07-17 | 4 | 5 | 0 | 12 | 3 | 25 |
+| 90d | 2026-06-17 | 5 | 7 | 0 | 15 | 3 | 56 |
+| last180d | 2026-03-19 | 10 | 39 | 0 | 117 | 4 | 333 |
+| 360d | 2025-09-20 | 29 | 89 | 0 | 137 | 4 | 798 |
+| last720d | 2024-09-25 | 30 | 105 | 0 | 146 | 4 | 1099 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for FinceptTerminal lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:42:16Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:53:09Z._
