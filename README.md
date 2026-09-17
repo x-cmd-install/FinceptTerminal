@@ -33,27 +33,27 @@ Total: **1,145,343** lines of code across **3401** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.5.0` (2026-09-01)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-16
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 31,679 · **Forks**: 4,477 · **Open issues**: 151 · **Contributors**: 42
+- **Stars**: 31,706 · **Forks**: 4,484 · **Open issues**: 151 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 105 · **Open PRs**: 0 · **Closed issues**: 147 · **Open issues**: 4 · **Commits**: 1106
+- **Releases**: 33 · **Merged PRs**: 105 · **Open PRs**: 0 · **Closed issues**: 148 · **Open issues**: 3 · **Commits**: 1108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 2 | 2 | 0 | 8 | 3 | 6 |
-| last60d | 2026-07-18 | 4 | 4 | 0 | 12 | 3 | 25 |
-| 90d | 2026-06-18 | 5 | 7 | 0 | 14 | 3 | 56 |
-| last180d | 2026-03-20 | 10 | 39 | 0 | 117 | 4 | 333 |
-| 360d | 2025-09-21 | 29 | 89 | 0 | 137 | 4 | 798 |
-| last720d | 2024-09-26 | 30 | 105 | 0 | 146 | 4 | 1099 |
+| 30d | 2026-08-18 | 2 | 2 | 0 | 9 | 2 | 8 |
+| last60d | 2026-07-19 | 4 | 4 | 0 | 12 | 2 | 27 |
+| 90d | 2026-06-19 | 5 | 7 | 0 | 15 | 2 | 58 |
+| last180d | 2026-03-21 | 10 | 39 | 0 | 118 | 3 | 335 |
+| 360d | 2025-09-22 | 29 | 89 | 0 | 138 | 3 | 800 |
+| last720d | 2024-09-27 | 30 | 105 | 0 | 147 | 3 | 1101 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for FinceptTerminal lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:41:52Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:49:32Z._
