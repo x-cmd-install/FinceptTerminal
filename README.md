@@ -4,7 +4,7 @@
 
 FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
-![FinceptTerminal](https://repo.x-cmd.io/FinceptTerminal.svg)
+[![x-cmd/install — FinceptTerminal Code Quality Monitoring Repo Card](https://repo.x-cmd.io/FinceptTerminal.svg)](https://x-cmd.com/install/FinceptTerminal)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **1,145,343** lines of code across **3401** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.5.0` (2026-09-01)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 31,746 · **Forks**: 4,497 · **Open issues**: 153 · **Contributors**: 42
+- **Stars**: 31,809 · **Forks**: 4,514 · **Open issues**: 153 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 105 · **Open PRs**: 2 · **Closed issues**: 148 · **Open issues**: 5 · **Commits**: 1108
+- **Releases**: 33 · **Merged PRs**: 105 · **Open PRs**: 2 · **Closed issues**: 148 · **Open issues**: 5 · **Commits**: 1110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 2 | 2 | 9 | 4 | 8 |
-| last60d | 2026-07-20 | 4 | 3 | 2 | 12 | 4 | 27 |
-| 90d | 2026-06-20 | 5 | 7 | 2 | 15 | 4 | 58 |
-| last180d | 2026-03-22 | 10 | 39 | 2 | 118 | 5 | 335 |
-| 360d | 2025-09-23 | 29 | 89 | 2 | 138 | 5 | 800 |
-| last720d | 2024-09-28 | 30 | 105 | 2 | 147 | 5 | 1101 |
+| 30d | 2026-08-21 | 1 | 1 | 2 | 8 | 4 | 10 |
+| last60d | 2026-07-22 | 4 | 3 | 2 | 12 | 4 | 29 |
+| 90d | 2026-06-22 | 5 | 7 | 2 | 15 | 4 | 60 |
+| last180d | 2026-03-24 | 10 | 39 | 2 | 116 | 5 | 337 |
+| 360d | 2025-09-25 | 29 | 89 | 2 | 138 | 5 | 802 |
+| last720d | 2024-09-30 | 30 | 105 | 2 | 147 | 5 | 1103 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for FinceptTerminal lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:37:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:02Z._
