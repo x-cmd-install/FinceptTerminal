@@ -32,40 +32,40 @@ Total: **1,148,127** lines of code across **3293** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.5.0` (2026-09-01)
+- **Latest**: `v4.5.1` (2026-10-13)
 - **Last commit**: 2026-10-13
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 32,427 · **Forks**: 4,592 · **Open issues**: 156 · **Contributors**: 43
+- **Stars**: 32,465 · **Forks**: 4,602 · **Open issues**: 156 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 106 · **Open PRs**: 1 · **Closed issues**: 152 · **Open issues**: 4 · **Commits**: 1121
+- **Releases**: 34 · **Merged PRs**: 106 · **Open PRs**: 1 · **Closed issues**: 152 · **Open issues**: 4 · **Commits**: 1122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 1 | 1 | 2 | 3 | 10 |
-| last60d | 2026-08-14 | 2 | 3 | 1 | 14 | 3 | 24 |
-| 90d | 2026-07-15 | 4 | 7 | 1 | 17 | 3 | 38 |
-| last180d | 2026-04-16 | 8 | 38 | 1 | 117 | 4 | 210 |
-| 360d | 2025-10-18 | 26 | 77 | 1 | 138 | 4 | 730 |
-| last720d | 2024-10-23 | 30 | 106 | 1 | 151 | 4 | 1113 |
+| 30d | 2026-09-14 | 1 | 1 | 1 | 2 | 3 | 11 |
+| last60d | 2026-08-15 | 3 | 3 | 1 | 14 | 3 | 25 |
+| 90d | 2026-07-16 | 5 | 7 | 1 | 17 | 3 | 39 |
+| last180d | 2026-04-17 | 9 | 38 | 1 | 116 | 4 | 211 |
+| 360d | 2025-10-19 | 27 | 72 | 1 | 138 | 4 | 731 |
+| last720d | 2024-10-24 | 31 | 106 | 1 | 151 | 4 | 1114 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [FinceptTerminal-4.5.0-linux-x64-setup.run](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-linux-x64-setup.run) | 168.7 MiB | `other` |
-| [FinceptTerminal-4.5.0-linux-x64-setup.run.zsync](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-linux-x64-setup.run.zsync) | 295.6 KiB | `other` |
-| [FinceptTerminal-4.5.0-linux-x64-wizard.bin](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-linux-x64-wizard.bin) | 187.6 MiB | `other` |
-| [FinceptTerminal-4.5.0-linux-x64.deb](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-linux-x64.deb) | 53.4 MiB | `other` |
-| [FinceptTerminal-4.5.0-linux-x64.rpm](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-linux-x64.rpm) | 58.3 MiB | `other` |
-| [FinceptTerminal-4.5.0-macos-arm64-setup.dmg](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-macos-arm64-setup.dmg) | 248.9 MiB | `native/darwin/arm64` |
-| [FinceptTerminal-4.5.0-windows-x64-setup.exe](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.0/FinceptTerminal-4.5.0-windows-x64-setup.exe) | 164.6 MiB | `native/win/x64` |
+| [FinceptTerminal-4.5.1-linux-x64-setup.run](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-setup.run) | 170.9 MiB | `other` |
+| [FinceptTerminal-4.5.1-linux-x64-setup.run.zsync](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-setup.run.zsync) | 299.4 KiB | `other` |
+| [FinceptTerminal-4.5.1-linux-x64-wizard.bin](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-wizard.bin) | 171.8 MiB | `other` |
+| [FinceptTerminal-4.5.1-linux-x64.deb](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.deb) | 55.2 MiB | `other` |
+| [FinceptTerminal-4.5.1-linux-x64.rpm](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.rpm) | 60.6 MiB | `other` |
+| [FinceptTerminal-4.5.1-macos-arm64-setup.dmg](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-macos-arm64-setup.dmg) | 250.4 MiB | `native/darwin/arm64` |
+| [FinceptTerminal-4.5.1-windows-x64-setup.exe](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-windows-x64-setup.exe) | 165.8 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for FinceptTerminal lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:35:07Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:36:03Z._
