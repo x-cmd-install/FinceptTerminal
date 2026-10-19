@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 179239416,
       "digest": "sha256:05b574324f984ae8e954d439b33f6497e483698075996a2cb2cf189b29cc3f0a",
-      "download_count": 104,
+      "download_count": 127,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:15Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-setup.run"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 306580,
       "digest": "sha256:a65daf84039865c0a3feb49651c4bbe653484ac356b617d1390c5dafdc662d18",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:05Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-setup.run.zsync"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 180167220,
       "digest": "sha256:7043bc31bc3e28eed0e83966707d446bbddf6ed99faa3d297d2fbcb0832edf03",
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:14Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-wizard.bin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 57857002,
       "digest": "sha256:5766bb44dae524d885427e48c71f93d7def4b36ac0457fb45c3df36685406b39",
-      "download_count": 93,
+      "download_count": 116,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:08Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 63574200,
       "digest": "sha256:bbbbac6056ff39a8f69a183489eb1e6c431f3337a1f253443fc2173afb7c14b2",
-      "download_count": 35,
+      "download_count": 46,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:09Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 262558689,
       "digest": "sha256:c4569631b194745b1d5620c56bfeb3a0c04957723fd61be601b9c0861aa0d44d",
-      "download_count": 377,
+      "download_count": 434,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:20Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-macos-arm64-setup.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 173828448,
       "digest": "sha256:b76438a7830e0d3e5fd12a70efae587e7767068414ba650d9e62c5808ce96b08",
-      "download_count": 529,
+      "download_count": 661,
       "created_at": "2026-10-13T07:43:04Z",
       "updated_at": "2026-10-13T07:43:16Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-windows-x64-setup.exe"
@@ -291,5 +291,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Fincept-Corporation/FinceptTerminal/tarball/v4.5.1",
   "zipball_url": "https://api.github.com/repos/Fincept-Corporation/FinceptTerminal/zipball/v4.5.1",
-  "body": "## Fincept Terminal v4.5.1\n\nNative C++20 financial intelligence terminal — Qt6, embedded Python analytics, 50+ screens.\n\n### Downloads\n\n| Platform | File | Install |\n|----------|------|---------|\n| **Windows x64** | `FinceptTerminal-*-setup*.exe` | Run installer |\n| **Linux (Debian/Ubuntu)** | `FinceptTerminal-*-linux-x64.deb` | `sudo dpkg -i *.deb` |\n| **Linux (Fedora/RHEL)** | `FinceptTerminal-*-linux-x64.rpm` | `sudo dnf install *.rpm` |\n| **Linux (portable)** | `FinceptTerminal-*-linux-x64-setup.run` | `chmod +x` then run |\n| **macOS Apple Silicon** | `FinceptTerminal-*.dmg` or setup | Open DMG → drag to Applications |\n\n### Requirements\n- Windows 10/11 x64\n- Ubuntu 20.04+ / Debian 11+ / Fedora 36+ / RHEL 9+\n- macOS 13+ (Apple Silicon)\n\nSee the [README](https://github.com/Fincept-Corporation/FinceptTerminal#readme) for full installation instructions.\n"
+  "body": "## Fincept Terminal v4.5.1\n\nNative C++20 financial intelligence terminal — Qt6, embedded Python analytics, 50+ screens.\n\n### Downloads\n\n| Platform | File | Install |\n|----------|------|---------|\n| **Windows x64** | `FinceptTerminal-*-setup*.exe` | Run installer |\n| **Linux (Debian/Ubuntu)** | `FinceptTerminal-*-linux-x64.deb` | `sudo dpkg -i *.deb` |\n| **Linux (Fedora/RHEL)** | `FinceptTerminal-*-linux-x64.rpm` | `sudo dnf install *.rpm` |\n| **Linux (portable)** | `FinceptTerminal-*-linux-x64-setup.run` | `chmod +x` then run |\n| **macOS Apple Silicon** | `FinceptTerminal-*.dmg` or setup | Open DMG → drag to Applications |\n\n### Requirements\n- Windows 10/11 x64\n- Ubuntu 20.04+ / Debian 11+ / Fedora 36+ / RHEL 9+\n- macOS 13+ (Apple Silicon)\n\nSee the [README](https://github.com/Fincept-Corporation/FinceptTerminal#readme) for full installation instructions.\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/Fincept-Corporation/FinceptTerminal/releases/411418222/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  }
 }
