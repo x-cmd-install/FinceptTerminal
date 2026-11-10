@@ -14,58 +14,58 @@ x install FinceptTerminal
 
 ## 代码洞察
 
-合计: **1,148,384** 行代码（覆盖前 5 种语言、共 **3294** 个文件）。
+合计: **1,112,982** 行代码（覆盖前 5 种语言、共 **3129** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 453,195 | 0 | 613 | 11 |
-| Cpp | 363,934 | 37,937 | 49,324 | 1080 |
-| Python | 265,649 | 22,971 | 49,012 | 1153 |
-| CHeader | 54,056 | 18,736 | 13,530 | 1019 |
-| Json | 4,051 | 0 | 13 | 31 |
+| TypeScript | 452,937 | 0 | 607 | 11 |
+| Cpp | 363,274 | 37,112 | 48,970 | 1055 |
+| Python | 231,165 | 20,699 | 42,793 | 1038 |
+| CHeader | 54,246 | 19,136 | 13,618 | 998 |
+| Json | 3,843 | 0 | 13 | 27 |
 
 ## 源代码
 
 - **上游仓库**: <https://github.com/Fincept-Corporation/FinceptTerminal>
 - **官网**: <https://fincept.in>
-- **许可证**: NOASSERTION
+- **许可证**: AGPL-3.0
 
 ## 发布
 
-- **最新版本**: `v4.5.1` (2026-10-13)
-- **最近提交**: 2026-11-08
+- **最新版本**: `v4.5.2` (2026-11-09)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 33,613 · **Fork**: 4,811 · **开放 issue**: 167 · **贡献者**: 47
+- **Star**: 33,647 · **Fork**: 4,815 · **开放 issue**: 167 · **贡献者**: 47
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 111 · **开放 PR**: 0 · **已关闭 issue**: 161 · **开放 issue**: 6 · **提交数**: 1138
+- **发布数**: 35 · **已合并 PR**: 111 · **开放 PR**: 0 · **已关闭 issue**: 161 · **开放 issue**: 6 · **提交数**: 1142
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 5 | 0 | 8 | 3 | 11 |
-| last60d | 2026-09-10 | 1 | 6 | 0 | 12 | 5 | 24 |
-| 90d | 2026-08-11 | 4 | 8 | 0 | 23 | 5 | 37 |
-| last180d | 2026-05-13 | 7 | 32 | 0 | 62 | 6 | 134 |
-| 360d | 2025-11-14 | 22 | 63 | 0 | 146 | 6 | 681 |
-| last720d | 2024-11-19 | 31 | 111 | 0 | 160 | 6 | 1130 |
+| 30d | 2026-10-11 | 2 | 5 | 0 | 8 | 3 | 15 |
+| last60d | 2026-09-11 | 2 | 6 | 0 | 12 | 5 | 28 |
+| 90d | 2026-08-12 | 4 | 8 | 0 | 23 | 5 | 41 |
+| last180d | 2026-05-14 | 8 | 30 | 0 | 61 | 6 | 138 |
+| 360d | 2025-11-15 | 23 | 63 | 0 | 146 | 6 | 685 |
+| last720d | 2024-11-20 | 32 | 111 | 0 | 160 | 6 | 1134 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [FinceptTerminal-4.5.1-linux-x64-setup.run](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-setup.run) | 170.9 MiB | `other` |
-| [FinceptTerminal-4.5.1-linux-x64-setup.run.zsync](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-setup.run.zsync) | 299.4 KiB | `other` |
-| [FinceptTerminal-4.5.1-linux-x64-wizard.bin](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64-wizard.bin) | 171.8 MiB | `other` |
-| [FinceptTerminal-4.5.1-linux-x64.deb](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.deb) | 55.2 MiB | `other` |
-| [FinceptTerminal-4.5.1-linux-x64.rpm](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-linux-x64.rpm) | 60.6 MiB | `other` |
-| [FinceptTerminal-4.5.1-macos-arm64-setup.dmg](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-macos-arm64-setup.dmg) | 250.4 MiB | `native/darwin/arm64` |
-| [FinceptTerminal-4.5.1-windows-x64-setup.exe](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.1/FinceptTerminal-4.5.1-windows-x64-setup.exe) | 165.8 MiB | `native/win/x64` |
+| [FinceptTerminal-4.5.2-linux-x64-setup.run](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64-setup.run) | 170.6 MiB | `other` |
+| [FinceptTerminal-4.5.2-linux-x64-setup.run.zsync](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64-setup.run.zsync) | 298.8 KiB | `other` |
+| [FinceptTerminal-4.5.2-linux-x64-wizard.bin](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64-wizard.bin) | 171.9 MiB | `other` |
+| [FinceptTerminal-4.5.2-linux-x64.deb](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64.deb) | 179.1 MiB | `other` |
+| [FinceptTerminal-4.5.2-linux-x64.rpm](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-linux-x64.rpm) | 217.5 MiB | `other` |
+| [FinceptTerminal-4.5.2-macos-arm64-setup.dmg](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-macos-arm64-setup.dmg) | 248.4 MiB | `native/darwin/arm64` |
+| [FinceptTerminal-4.5.2-windows-x64-setup.exe](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.2/FinceptTerminal-4.5.2-windows-x64-setup.exe) | 183.2 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ FinceptTerminal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:08:07Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:56:51Z._
