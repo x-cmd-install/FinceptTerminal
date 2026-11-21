@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 188356284,
       "digest": "sha256:8bc949f9c13e708e17c8d744946e369f7b7a3c6b4ce301b1af24f6f7062a6383",
-      "download_count": 44,
+      "download_count": 61,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:30Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-linux-x64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 68923920,
       "digest": "sha256:f2a1b63f9fbc34aa22ded52a3e9c0fbe85678971278ddf0982fbeb3e2f21dce5",
-      "download_count": 21,
+      "download_count": 28,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:28Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-linux-x86_64.flatpak"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 284645833,
       "digest": "sha256:5667c58181dd5bafded8a2067d4afee2a8ddb3392f5a3af9496681b43553e3a4",
-      "download_count": 68,
+      "download_count": 91,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:34Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-macos-arm64-setup.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 203036372,
       "digest": "sha256:63448df88a68fb428dbc0e0ff16c3410d957abdf0294ddb651ecdf3d6d6133e3",
-      "download_count": 196,
+      "download_count": 323,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:31Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-windows-x64-setup.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1450,
       "digest": "sha256:8f15ba1e8ff42bcff8c764d2d3dc59a06cf9b7a9fe4246bfdab167edf2216c29",
-      "download_count": 310,
+      "download_count": 555,
       "created_at": "2026-11-18T08:38:37Z",
       "updated_at": "2026-11-18T08:38:37Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/updates.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:3b8dbc555b14890118d08aa8d3f4334ab0927136ba592f4120b7e9a9d009c507",
-      "download_count": 302,
+      "download_count": 538,
       "created_at": "2026-11-18T08:38:36Z",
       "updated_at": "2026-11-18T08:38:36Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/updates.json.sig"
@@ -258,14 +258,14 @@
   "body": "## Fincept Terminal v4.5.3\n\nNative C++20 financial intelligence terminal — Qt6, embedded Python analytics, 50+ screens.\n\n### Downloads\n\n| Platform | File | Install |\n|----------|------|---------|\n| **Windows x64** | `FinceptTerminal-*-setup*.exe` | Run installer |\n| **Linux (Flatpak, any distribution)** | `FinceptTerminal-*-linux-x86_64.flatpak` | `flatpak install --user ./FinceptTerminal-*.flatpak`, then `flatpak run in.fincept.FinceptTerminal` |\n| **Linux (Debian/Ubuntu .deb)** | `FinceptTerminal-*-linux-x64.deb` | `sudo apt install ./FinceptTerminal-*.deb` |\n| **macOS Apple Silicon** | `FinceptTerminal-*.dmg` or setup | Open DMG → drag to Applications |\n\n### Requirements\n- Windows 10/11 x64\n- Linux Flatpak: any x86_64 Linux with Flatpak; its runtime (org.kde.Platform 6.11) is installed from Flathub on first install\n- Linux .deb: Ubuntu 22.04+ / Debian 12+ and derivatives (x86_64, glibc 2.35+). Fedora, RHEL, Arch, openSUSE and others: use the Flatpak\n- The AppImage and .rpm are no longer published\n- macOS 13+ (Apple Silicon)\n\nSee the [README](https://github.com/Fincept-Corporation/FinceptTerminal#readme) for full installation instructions.\n",
   "reactions": {
     "url": "https://api.github.com/repos/Fincept-Corporation/FinceptTerminal/releases/449710665/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
     "heart": 0,
-    "rocket": 1,
+    "rocket": 2,
     "eyes": 0
   }
 }
