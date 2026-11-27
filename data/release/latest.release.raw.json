@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 188356284,
       "digest": "sha256:8bc949f9c13e708e17c8d744946e369f7b7a3c6b4ce301b1af24f6f7062a6383",
-      "download_count": 210,
+      "download_count": 245,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:30Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-linux-x64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 68923920,
       "digest": "sha256:f2a1b63f9fbc34aa22ded52a3e9c0fbe85678971278ddf0982fbeb3e2f21dce5",
-      "download_count": 79,
+      "download_count": 87,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:28Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-linux-x86_64.flatpak"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 284645833,
       "digest": "sha256:5667c58181dd5bafded8a2067d4afee2a8ddb3392f5a3af9496681b43553e3a4",
-      "download_count": 407,
+      "download_count": 452,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:34Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-macos-arm64-setup.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 203036372,
       "digest": "sha256:63448df88a68fb428dbc0e0ff16c3410d957abdf0294ddb651ecdf3d6d6133e3",
-      "download_count": 972,
+      "download_count": 1089,
       "created_at": "2026-11-18T08:38:25Z",
       "updated_at": "2026-11-18T08:38:31Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/FinceptTerminal-4.5.3-windows-x64-setup.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1450,
       "digest": "sha256:8f15ba1e8ff42bcff8c764d2d3dc59a06cf9b7a9fe4246bfdab167edf2216c29",
-      "download_count": 3213,
+      "download_count": 3716,
       "created_at": "2026-11-18T08:38:37Z",
       "updated_at": "2026-11-18T08:38:37Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/updates.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:3b8dbc555b14890118d08aa8d3f4334ab0927136ba592f4120b7e9a9d009c507",
-      "download_count": 3157,
+      "download_count": 3654,
       "created_at": "2026-11-18T08:38:36Z",
       "updated_at": "2026-11-18T08:38:36Z",
       "browser_download_url": "https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v4.5.3/updates.json.sig"
